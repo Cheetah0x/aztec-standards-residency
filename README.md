@@ -1,5 +1,7 @@
 # Aztec Standards
 
+Proof of Concept of what a Compliance token for Aztec would look like
+
 Aztec Standards is a compilation of reusable, standardized contracts for the Aztec Network. It provides a foundation of token primitives and utilities supporting both private and public operations, enabling developers to build privacy-preserving applications.
 
 ## Table of Contents
